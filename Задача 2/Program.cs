@@ -13,4 +13,5 @@ else
 {
     Console.WriteLine(number2);
 }
-
+if (number1 == number2)
+    Console.WriteLine("Числа равны");
