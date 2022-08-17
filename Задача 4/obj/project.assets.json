@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Murk\\Desktop\\Домашнее задание\\Задача 4\\Задача 4.csproj",
+      "projectUniqueName": "C:\\Users\\Murk\\Desktop\\задачки\\Задача 4\\Задача 4.csproj",
       "projectName": "Задача 4",
-      "projectPath": "C:\\Users\\Murk\\Desktop\\Домашнее задание\\Задача 4\\Задача 4.csproj",
+      "projectPath": "C:\\Users\\Murk\\Desktop\\задачки\\Задача 4\\Задача 4.csproj",
       "packagesPath": "C:\\Users\\Murk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Murk\\Desktop\\Домашнее задание\\Задача 4\\obj\\",
+      "outputPath": "C:\\Users\\Murk\\Desktop\\задачки\\Задача 4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Murk\\AppData\\Roaming\\NuGet\\NuGet.Config"
