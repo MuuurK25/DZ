@@ -5,9 +5,9 @@
 
 
 Console.Write("Введите целое число N для нахождения кубов всех чисел от 1 до N: ");
-int N = Convert.ToInt32(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 int i = 1;
-while (i <= N)
+while (i <= n)
 {
     Console.WriteLine($" {i} | {Math.Pow(i, 3)} ");
     i++;
