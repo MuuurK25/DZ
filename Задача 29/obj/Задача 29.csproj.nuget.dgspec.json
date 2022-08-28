@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murk\\Desktop\\задачки\\Задача 29\\Задача 29.csproj": {}
+    "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 29\\Задача 29.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murk\\Desktop\\задачки\\Задача 29\\Задача 29.csproj": {
+    "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 29\\Задача 29.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murk\\Desktop\\задачки\\Задача 29\\Задача 29.csproj",
+        "projectUniqueName": "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 29\\Задача 29.csproj",
         "projectName": "Задача 29",
-        "projectPath": "C:\\Users\\Murk\\Desktop\\задачки\\Задача 29\\Задача 29.csproj",
+        "projectPath": "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 29\\Задача 29.csproj",
         "packagesPath": "C:\\Users\\Murk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murk\\Desktop\\задачки\\Задача 29\\obj\\",
+        "outputPath": "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 29\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murk\\AppData\\Roaming\\NuGet\\NuGet.Config"

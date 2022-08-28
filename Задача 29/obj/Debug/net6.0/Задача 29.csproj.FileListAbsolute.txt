@@ -13,3 +13,18 @@ C:\Users\Murk\Desktop\задачки\Задача 29\obj\Debug\net6.0\refint\З�
 C:\Users\Murk\Desktop\задачки\Задача 29\obj\Debug\net6.0\Задача 29.pdb
 C:\Users\Murk\Desktop\задачки\Задача 29\obj\Debug\net6.0\Задача 29.genruntimeconfig.cache
 C:\Users\Murk\Desktop\задачки\Задача 29\obj\Debug\net6.0\ref\Задача 29.dll
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.csproj.AssemblyReference.cache
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.dll
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\refint\Задача 29.dll
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.pdb
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\bin\Debug\net6.0\Задача 29.exe
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\bin\Debug\net6.0\Задача 29.deps.json
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\bin\Debug\net6.0\Задача 29.runtimeconfig.json
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\bin\Debug\net6.0\Задача 29.dll
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\bin\Debug\net6.0\Задача 29.pdb
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.AssemblyInfoInputs.cache
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.AssemblyInfo.cs
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.csproj.CoreCompileInputs.cache
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\Задача 29.genruntimeconfig.cache
+C:\Users\Murk\Desktop\Домашняя работа\Задача 29\obj\Debug\net6.0\ref\Задача 29.dll
