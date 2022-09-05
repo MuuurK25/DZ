@@ -6,13 +6,13 @@
 double[] array = new double[10];
 FillArrayRandomNumbers(array);
 PrintArray(array);
-double min = array[0];
+double min =(array[0]);
 double max = array[0];
 for (int i = 0; i < array.Length; i++)
 {
     if (array[i] > max)
     {
-        max = array[i];
+        max = (array[i]);
     }
     if (array[i] < min)
     {
@@ -37,5 +37,6 @@ void PrintArray(double[] array)
     Console.Write("]");
 }
 double decision = max - min;
-Console.WriteLine($" Максимальное значение = {max}, минимальное значение = {min}");
-Console.WriteLine($"Разница между максимальным и минимальным значением = {decision}");
+
+Console.WriteLine($" Максимальное значение = {Math.Round(max, 4)}, минимальное значение = {Math.Round(min, 4)}");
+Console.WriteLine($"Разница между максимальным и минимальным значением = {Math.Round(decision, 4)}");
