@@ -6,7 +6,7 @@
 double[] array = new double[10];
 FillArrayRandomNumbers(array);
 PrintArray(array);
-double min =array[0];
+double min = array[0];
 double max = array[0];
 for (int i = 0; i < array.Length; i++)
 {
