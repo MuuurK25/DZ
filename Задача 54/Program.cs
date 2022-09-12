@@ -47,6 +47,7 @@ void SortToLower(int[,] matrix)
                     int count = matrix[i, k + 1];
                     matrix[i, k + 1] = matrix[i, k];
                     matrix[i, k] = count;
+
                 }
             }
         }
