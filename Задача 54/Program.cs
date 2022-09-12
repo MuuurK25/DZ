@@ -45,8 +45,9 @@ void SortToLower(int[,] matrix)
                 if (matrix[i, k] < matrix[i, k + 1])
                 {
                     int count = matrix[i, k + 1];
-                    matrix[i, k + 1] = matrix[i, k];           
+                    matrix[i, k + 1] = matrix[i, k];
                     matrix[i, k] = count;
+
                 }
             }
         }
