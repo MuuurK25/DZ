@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 58\\Задача 58.csproj": {}
+    "C:\\Users\\Murk\\Desktop\\Домашняя работа C#\\Задача 58\\Задача 58.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 58\\Задача 58.csproj": {
+    "C:\\Users\\Murk\\Desktop\\Домашняя работа C#\\Задача 58\\Задача 58.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 58\\Задача 58.csproj",
+        "projectUniqueName": "C:\\Users\\Murk\\Desktop\\Домашняя работа C#\\Задача 58\\Задача 58.csproj",
         "projectName": "Задача 58",
-        "projectPath": "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 58\\Задача 58.csproj",
+        "projectPath": "C:\\Users\\Murk\\Desktop\\Домашняя работа C#\\Задача 58\\Задача 58.csproj",
         "packagesPath": "C:\\Users\\Murk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murk\\Desktop\\Домашняя работа\\Задача 58\\obj\\",
+        "outputPath": "C:\\Users\\Murk\\Desktop\\Домашняя работа C#\\Задача 58\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murk\\AppData\\Roaming\\NuGet\\NuGet.Config"
