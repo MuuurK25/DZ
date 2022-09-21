@@ -1,0 +1,15 @@
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.csproj.AssemblyReference.cache
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.AssemblyInfoInputs.cache
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.AssemblyInfo.cs
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.csproj.CoreCompileInputs.cache
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\bin\Debug\net6.0\Задача 68.exe
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\bin\Debug\net6.0\Задача 68.deps.json
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\bin\Debug\net6.0\Задача 68.runtimeconfig.json
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\bin\Debug\net6.0\Задача 68.dll
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\bin\Debug\net6.0\Задача 68.pdb
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.dll
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\refint\Задача 68.dll
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.pdb
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\Задача 68.genruntimeconfig.cache
+C:\Users\Murk\Desktop\Домашняя работа C#\Задача 68\obj\Debug\net6.0\ref\Задача 68.dll
